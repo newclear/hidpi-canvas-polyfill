@@ -42,7 +42,8 @@
 			'rect': 'all',
 			'translate': 'all',
 			'createRadialGradient': 'all',
-			'createLinearGradient': 'all'
+			'createLinearGradient': 'all',
+			'drawImage': [1,2,3,4]
 		};
 
 	if (pixelRatio === 1) return;
